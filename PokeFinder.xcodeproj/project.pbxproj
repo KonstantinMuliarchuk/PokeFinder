@@ -65,6 +65,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		200662911F39DF5600C2551A /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
 		2063128C1F2E401D0046B105 = {
 			isa = PBXGroup;
 			children = (
@@ -87,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				206312C51F2E52220046B105 /* Model */,
+				200662911F39DF5600C2551A /* View */,
 				206312C41F2E52160046B105 /* Controller */,
 				206312AC1F2E43C50046B105 /* GeoFire */,
 				206312981F2E401D0046B105 /* AppDelegate.swift */,
